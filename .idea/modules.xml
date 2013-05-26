@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sucratrend.iml" filepath="$PROJECT_DIR$/Sucratrend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sucratrend-Sucratrend.iml" filepath="$PROJECT_DIR$/Sucratrend-Sucratrend.iml" />
+    </modules>
+  </component>
+</project>
+

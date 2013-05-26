@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="insulin_types">
+        <item>Select One</item>
+        <item>Humalog</item>
+        <item>Velosulin</item>
+        <item>Novolog</item>
+        <item>Levemir</item>
+    </string-array>
+    <string-array name="tags">
+        <item>Select One</item>
+        <item>Wake</item>
+        <item>PreMeal</item>
+        <item>PostMeal</item>
+        <item>PreSnack</item>
+        <item>PostSnack</item>
+        <item>Bed</item>
+        <item>PreActivity</item>
+        <item>PostActivity</item>
+        <item>Other</item>
+    </string-array>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Sucratrend</string>
+    <string name="button_360">360</string>
+    <string name="button_alerts">Alerts</string>
+    <string name="button_entry">Entry</string>
+    <string name="button_login">Login</string>
+    <string name="button_reminders">Reminders</string>
+    <string name="button_saveentry">Save Entry</string>
+    <string name="edit_carbs">24</string>
+    <string name="edit_glucose">130</string>
+    <string name="edit_insulin">12.5</string>
+    <string name="edit_password">password</string>
+    <string name="edit_username">userid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_carbs">Carbs</string>
+    <string name="text_glucose">Glucose</string>
+    <string name="text_insulin">Insulin</string>
+    <string name="text_insulintype">Insulin Type</string>
+    <string name="text_login">Please Login</string>
+    <string name="text_password">Password:</string>
+    <string name="text_tags">Tags</string>
+    <string name="text_username">Username:</string>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
